@@ -29,11 +29,10 @@ This project analyzes the Netflix Movies and TV Shows dataset using Power BI and
 - Interactive Filters
 
 ## Key Insights
-- Movies make up around 75% of the Netflix catalog.
-- TV Shows account for around 25%.
-- The United States has the highest number of titles.
-- Drama and International Movies are among the most common genres.
-- Content additions increased rapidly after 2016 and peaked around 2020.
+- Netflix's content library includes 8800 titles, with 74.88% largest share of Movies.
+- Content releases grew exponentially from 2000 to 2020, peaking at 422 titles in a single year.
+- The platform offers content across 24 countries, United States contributes the largest share of content with 2498 titles.
+- Content with R rating is contribute largest share with 1755 titles.
 
 ## Project Files
 - Netflix Data Analysis.pbix
@@ -42,7 +41,7 @@ This project analyzes the Netflix Movies and TV Shows dataset using Power BI and
 - Dashboard Screenshots
 
 ## Dashboard Preview
-(Add your screenshots here)
+
 
 ## Author
 Utsav Prajapati
