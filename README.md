@@ -48,8 +48,7 @@ This project analyzes the Netflix Movies and TV Shows dataset using Power BI and
 ### Dashboard - Page 2
 ![Dashboard Page 2](dashboard_page2.png)
 
-### Dashboard - Page 3
-![Dashboard Page 3](dashboard_page3.png)
+
 
 ## Author
 Utsav Prajapati
