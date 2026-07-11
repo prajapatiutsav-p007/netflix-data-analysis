@@ -51,5 +51,10 @@ This project analyzes the Netflix Movies and TV Shows dataset using Power BI and
 ### Dashboard - Page 3
 ![Dashboard Page 3](dashboard_page3.png)
 
+
+Dataset Source: Netflix Movies and TV Shows by Shivam Bansal
+Source: https://www.kaggle.com/datasets/shivamb/netflix-shows
+License: CC BY 4.0
+
 ## Author
 Utsav Prajapati
